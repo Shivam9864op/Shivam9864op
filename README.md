@@ -26,7 +26,15 @@ These are real local runs from the personal demos, not generated client proof.
 
 ![LeadOps duplicate protection](https://raw.githubusercontent.com/Shivam9864op/leadops-intake-triage/main/deduplication.png)
 
+![LeadOps workflow stages](https://raw.githubusercontent.com/Shivam9864op/leadops-intake-triage/main/flow.svg)
+
 ![Event Reliability Lab request flow](https://raw.githubusercontent.com/Shivam9864op/event-reliability-lab/main/docs/architecture.svg)
+
+![Event Reliability Lab personal demo](https://raw.githubusercontent.com/Shivam9864op/event-reliability-lab/main/docs/portfolio-card.png)
+
+![Safe Data Preview CLI run](https://raw.githubusercontent.com/Shivam9864op/safe-data-preview/main/docs/cli-run.svg)
+
+![Minecraft Config Auditor personal demo](https://raw.githubusercontent.com/Shivam9864op/minecraft-config-auditor/main/docs/portfolio-card.svg)
 
 ## What I’m looking for
 
